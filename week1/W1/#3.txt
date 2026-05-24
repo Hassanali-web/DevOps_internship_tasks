@@ -1,0 +1,7 @@
+Started by user Hassan ali
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Hello-world
+[Hello-world] $ /bin/sh -xe /tmp/jenkins7313643217365335827.sh
++ echo hello-world-by-jenkins
+hello-world-by-jenkins
+Finished: SUCCESS
